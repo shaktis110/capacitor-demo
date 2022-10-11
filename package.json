@@ -56,7 +56,7 @@
     "cordova-plugin-dialogs": "^2.0.2",
     "cordova-plugin-firebase-analytics": "^7.0.5",
     "cordova-plugin-firebasex": "git+https://github.com/shaktis110/cordova-plugin-firebasex-changed.git",
-    "cordova-plugin-firebasex-fix": "^14.0.0",
+    
     "cordova-plugin-inappbrowser": "^5.0.0",
     "cordova-plugin-ionic-webview": "^5.0.0",
     "cordova-plugin-local-notification": "^0.9.0-beta.2",
