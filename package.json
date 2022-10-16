@@ -39,6 +39,7 @@
     "@awesome-cordova-plugins/text-to-speech-advanced": "^5.45.0",
     "@capacitor/android": "4.3.0",
     "@capacitor/app": "4.0.1",
+     "@capacitor/assets": "^1.0.13",
     "@capacitor/core": "4.3.0",
     "@capacitor/haptics": "4.0.1",
     "@capacitor/keyboard": "4.0.1",
